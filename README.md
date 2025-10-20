@@ -84,7 +84,7 @@ Example:
 
 ## AUTHOR
 
-Full Name: Kevin Mwangi
-Slack Username: Kevin Mwangi
-HNG13 DevOps Intern (Stage 1)
-GitHub: [Github repo](https://github.com/mwangiii/hng-devops-task-one.git)
+**Full Name:** Kevin Mwangi  
+**Slack Username:** Kevin Mwangi  
+**HNG13 DevOps Intern (Stage 1)**  
+**GitHub:** [Github repo](https://github.com/mwangiii/hng-devops-task-one.git)
