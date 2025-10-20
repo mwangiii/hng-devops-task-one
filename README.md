@@ -86,5 +86,5 @@ Example:
 
 Full Name: Kevin Mwangi
 Slack Username: Kevin Mwangi
-HNGi13 DevOps Intern (Stage 1)
-GitHub: [https://github.com/mwangiii/hng-devops-task-one.git](Github repo)
+HNG13 DevOps Intern (Stage 1)
+GitHub: [Github repo](https://github.com/mwangiii/hng-devops-task-one.git)
