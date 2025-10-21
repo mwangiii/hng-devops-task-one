@@ -1,16 +1,5 @@
 #!/usr/bin/env bash
 # deploy.sh - Automated deployment for Dockerized app to remote Linux server
-# Usage:
-#   ./deploy.sh          -> interactive prompt mode
-#   ./deploy.sh --cleanup -> cleanup deployed resources on remote
-#
-# Exit codes:
-#  0 - success
-#  1 - input/validation error
-#  2 - local clone/build error
-#  3 - remote connectivity/setup error
-#  4 - deployment/runtime error
-
 set -euo pipefail
 IFS=$'\n\t'
 
